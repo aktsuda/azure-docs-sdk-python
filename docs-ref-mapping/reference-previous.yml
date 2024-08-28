@@ -104,6 +104,14 @@
       href: ~/docs-ref-services/legacy/loganalytics-readme.md
       children:
       - azure.loganalytics
+  - name: Metrics Advisor
+    href: ~/docs-ref-services/legacy/metrics-advisor.md
+    landingPageType: Service
+    items:
+    - name: Metrics Advisor (deprecated)
+      href: ~/docs-ref-services/legacy/ai-metricsadvisor-readme.md
+      children:
+      - azure.ai.metricsadvisor
   - name: Purview
     href: ~/docs-ref-services/legacy/purview.md
     landingPageType: Service
@@ -112,6 +120,16 @@
       href: ~/docs-ref-services/legacy/purview-catalog-readme.md
       children:
       - azure.purview.catalog
+  - name: Region Move
+    href: ~/docs-ref-services/legacy/region-move.md
+    landingPageType: Service
+    items:
+    - name: Management
+      items:
+      - name: Resource Management - Region Move (deprecated)
+        children:
+        - azure.mgmt.regionmove
+        landingPageType: Service
   - name: Stack Edge
     href: ~/docs-ref-services/legacy/stack-edge.md
     landingPageType: Service

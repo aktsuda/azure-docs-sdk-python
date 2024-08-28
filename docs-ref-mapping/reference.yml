@@ -541,6 +541,17 @@
         href: ~/docs-ref-services/latest/mgmt-kusto-readme.md
         children:
         - azure.mgmt.kusto
+  - name: Data Factory
+    href: ~/docs-ref-services/latest/data-factory.md
+    landingPageType: Service
+    items:
+    - name: Management
+      items:
+      - name: Resource Management - Data Factory
+        href: ~/docs-ref-services/latest/mgmt-datafactory-readme.md
+        children:
+        - azure-mgmt-datafactory
+        - azure.mgmt.datafactory
   - name: Data Protection
     href: ~/docs-ref-services/latest/data-protection.md
     landingPageType: Service
@@ -675,13 +686,13 @@
         href: ~/docs-ref-services/latest/mgmt-edgeorder-readme.md
         children:
         - azure.mgmt.edgeorder
-  - name: Edgezones
-    href: ~/docs-ref-services/latest/edgezones.md
+  - name: Edge Zones
+    href: ~/docs-ref-services/latest/edge-zones.md
     landingPageType: Service
     items:
     - name: Management
       items:
-      - name: Resource Management - Edgezones
+      - name: Resource Management - Edge Zones
         href: ~/docs-ref-services/latest/mgmt-edgezones-readme.md
         children:
         - azure.mgmt.edgezones
@@ -1180,14 +1191,6 @@
         href: ~/docs-ref-services/latest/mgmt-media-readme.md
         children:
         - azure.mgmt.media
-  - name: Metrics Advisor
-    href: ~/docs-ref-services/latest/metrics-advisor.md
-    landingPageType: Service
-    items:
-    - name: Metrics Advisor
-      href: ~/docs-ref-services/latest/ai-metricsadvisor-readme.md
-      children:
-      - azure.ai.metricsadvisor
   - name: Mixed Reality
     href: ~/docs-ref-services/latest/mixed-reality.md
     landingPageType: Service
@@ -1778,14 +1781,6 @@
         href: ~/docs-ref-services/latest/mgmt-trafficmanager-readme.md
         children:
         - azure.mgmt.trafficmanager
-  - name: unknown
-    href: ~/docs-ref-services/latest/unknown.md
-    landingPageType: Service
-    items:
-    - name: unknown
-      href: ~/docs-ref-services/latest/messaging-webpubsubclient-readme.md
-      children:
-      - azure.messaging.webpubsubclient
   - name: Video Search
     href: ~/docs-ref-services/latest/video-search.md
     landingPageType: Service
@@ -1808,6 +1803,10 @@
     href: ~/docs-ref-services/latest/web-pubsub.md
     landingPageType: Service
     items:
+    - name: Web PubSub Client
+      href: ~/docs-ref-services/latest/messaging-webpubsubclient-readme.md
+      children:
+      - azure.messaging.webpubsubclient
     - name: Web PubSub
       href: ~/docs-ref-services/latest/messaging-webpubsubservice-readme.md
       children:
