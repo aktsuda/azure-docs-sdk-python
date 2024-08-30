@@ -1,7 +1,7 @@
 {
   "Name": "azure-template",
-  "Version": "0.1.0b4086797",
-  "DevVersion": null,
+  "Version": "0.1.0a20240830001",
+  "DevVersion": "0.1.0a20240830001",
   "DirectoryPath": "sdk/template/azure-template",
   "ServiceDirectory": "template",
   "ReadMePath": "sdk/template/azure-template/README.md",
@@ -10,9 +10,10 @@
   "SdkType": "client",
   "IsNewSdk": true,
   "ArtifactName": "azure-template",
-  "ReleaseStatus": "2024-08-27",
-  "DependentPackages": null,
+  "ReleaseStatus": "2024-08-30",
+  "AdditionalValidationPackages": null,
   "Namespaces": [
     "azure.template"
-  ]
+  ],
+  "DependentPackages": null
 }
