@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-cosmosdb",
-  "Version": "9.5.1a20240903002",
-  "DevVersion": "9.5.1a20240903002",
+  "Version": "9.5.1a20240904001",
+  "DevVersion": "9.5.1a20240904001",
   "DirectoryPath": "sdk/cosmos/azure-mgmt-cosmosdb",
   "ServiceDirectory": "cosmos",
   "ReadMePath": "sdk/cosmos/azure-mgmt-cosmosdb/README.md",
@@ -11,8 +11,9 @@
   "IsNewSdk": true,
   "ArtifactName": "azure-mgmt-cosmosdb",
   "ReleaseStatus": "2024-06-19",
-  "AdditionalValidationPackages": null,
+  "DependentPackages": null,
   "Namespaces": [
     "azure.mgmt.cosmosdb"
-  ]
+  ],
+  "AdditionalValidationPackages": null
 }
