@@ -6,7 +6,7 @@ ms.topic: reference
 ms.devlang: python
 ms.service: evaluation
 ---
-# Azure AI Evaluation client library for Python - version 1.0.0a20240905001 
+# Azure AI Evaluation client library for Python - version 1.0.0a20240905002 
 
 
 ## Getting started
